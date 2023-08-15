@@ -1,0 +1,6 @@
+/* Write your CSS here */
+.page-not-found {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  height: 100vh;
+  width: 100vw;
+}
